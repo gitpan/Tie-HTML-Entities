@@ -1,0 +1,9 @@
+Revision history for Perl extension Tie::HTML::Entities.
+
+0.02  21 Feb 2001
+	- tweaked version first uploaded to CPAN
+
+0.01  21 Feb 2001
+	- original version; created by h2xs 1.21 with options
+		-v 0.01 -n Tie::HTML::Entities -X -b 5.5.0
+
